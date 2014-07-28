@@ -1,3 +1,6 @@
+/*
+Change: Added line
+*/
 /**********************************************************************
  Name:  cpBatchPopulateOutboundSummary.cls
  Other classes used: cpPortalUtil.cls
